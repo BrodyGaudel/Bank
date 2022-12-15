@@ -1,0 +1,9 @@
+com.brody.ebank
+com.brody.ebank.dto
+com.brody.ebank.entities
+com.brody.ebank.enums
+com.brody.ebank.exception
+com.brody.ebank.mappers
+com.brody.ebank.repositories
+com.brody.ebank.restcontroller
+com.brody.ebank.service
