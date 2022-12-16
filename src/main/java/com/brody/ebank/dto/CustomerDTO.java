@@ -1,11 +1,7 @@
-package com.brody.ebank.dto;
-
-
 /**
  * @author brody gaudel
  * CUSTOMER DTO JSON 
  * You can use it to add or update customer in postman
- * 
  * {
         "id": null,
         "firstname": "Brody Gaudel",
@@ -30,6 +26,7 @@ package com.brody.ebank.dto;
     }
  */
 
+package com.brody.ebank.dto;
 
 import java.util.Date;
 

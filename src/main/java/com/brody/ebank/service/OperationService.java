@@ -20,7 +20,7 @@ public interface OperationService {
 	
 	void credit(CreditDTO creditDTO) throws AccountNotFoundException, BalanceNotSufficientException, AccountSuspendedException, AccountNotActivatedException;
 	
-	void transfert(TransferDTO transferDTO) throws AccountNotFoundException, BalanceNotSufficientException, AccountSuspendedException, AccountNotActivatedException;
+	void transfer(TransferDTO transferDTO) throws AccountNotFoundException, BalanceNotSufficientException, AccountSuspendedException, AccountNotActivatedException;
 	
 	List<OperationDTO> findAllByAccountId(Long accountId);
 	

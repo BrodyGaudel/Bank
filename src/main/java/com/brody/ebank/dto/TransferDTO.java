@@ -1,16 +1,17 @@
-package com.brody.ebank.dto;
-
 /**
  * @author brody gaudel
  * TRANSFER DTO JSON
  * You can use it to transfer money from an account to another account in postman
  * {
-    "accountSource":"20442044100000",
-    "accountDestination":"20442044100001",
-    "amount":356489,
-    "description": "Transfer of money"
+"accountSource":"20442044100000",
+"accountDestination":"20442044100001",
+"amount":356489,
+"description": "Transfer of money"
 }
  */
+
+
+package com.brody.ebank.dto;
 
 
 import java.math.BigDecimal;

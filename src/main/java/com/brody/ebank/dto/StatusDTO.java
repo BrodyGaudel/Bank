@@ -1,5 +1,3 @@
-package com.brody.ebank.dto;
-
 /**
  * 
  * @author brody gaudel
@@ -15,6 +13,7 @@ package com.brody.ebank.dto;
  *
  */
 
+package com.brody.ebank.dto;
 
 public class StatusDTO {
 	

@@ -1,9 +1,7 @@
-package com.brody.ebank.dto;
-
 /**
  * @author brody gaudel
  * CREDIT DTO JSON 
- * You can use to credit an a account on postman
+ * You can use to credit an account on postman
  * here accountId is the rib of account not id
  * {
     "accountId": "20442044100000",
@@ -12,6 +10,10 @@ package com.brody.ebank.dto;
     
 	}
  */
+
+package com.brody.ebank.dto;
+
+
 import java.math.BigDecimal;
 
 public class CreditDTO {
